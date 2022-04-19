@@ -10,4 +10,6 @@ public class Practice1 {
 
     //way 2
 
+    //way 3
+
 }
